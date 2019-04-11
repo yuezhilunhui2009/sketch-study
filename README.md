@@ -3,9 +3,9 @@
 
 ## 知识点文件格式
 * [幕布原始文档](https://mubu.com/doc/7A1HTzuf4O)
-* [思维导图原始文档]()
-* [思维导图图片]()
-* [纯文本 HTML]()
+* [思维导图原始文档](https://github.com/yuezhilunhui2009/sketch-study/blob/master/Sketch%20%E5%8A%9F%E8%83%BD%E4%BB%A5%E5%8F%8A%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B8%80%E8%A7%88.mm)
+* [思维导图图片](https://github.com/yuezhilunhui2009/sketch-study/blob/master/Sketch%20%E5%8A%9F%E8%83%BD%E4%BB%A5%E5%8F%8A%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B8%80%E8%A7%88.png)
+* [纯文本 HTML](https://github.com/yuezhilunhui2009/sketch-study/blob/master/Sketch%20%E5%8A%9F%E8%83%BD%E4%BB%A5%E5%8F%8A%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B8%80%E8%A7%88.html)
 
 ## 思维导图展示
 ![](./Sketch%20%E5%8A%9F%E8%83%BD%E4%BB%A5%E5%8F%8A%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B8%80%E8%A7%88.png)
