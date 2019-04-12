@@ -5,6 +5,9 @@
 * [幕布原始文档](https://mubu.com/doc/7A1HTzuf4O)
 * [思维导图原始文档](https://github.com/yuezhilunhui2009/sketch-study/blob/master/Sketch%20%E5%8A%9F%E8%83%BD%E4%BB%A5%E5%8F%8A%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B8%80%E8%A7%88.mm)
 
+## Sketch 软件界面
+![](./the-interface@2x.jpg)
+
 ## 思维导图展示
 ### 界面（The Interface）
 ![](./%E7%95%8C%E9%9D%A2%EF%BC%88The%20Interface%EF%BC%89.png)
