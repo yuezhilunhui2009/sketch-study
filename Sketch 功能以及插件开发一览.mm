@@ -1,17 +1,97 @@
 <map>
 		<node ID="root" TEXT="Sketch 功能以及插件开发一览">		<node TEXT="界面（The Interface）" ID="2c116a0192bf6f084" STYLE="bubble" POSITION="right">
 		<node TEXT="画布（Canvas）" ID="10116a051f5f4403f" STYLE="fork">
+		<node TEXT="尺寸" ID="34716a0f89086603f" STYLE="fork">
+		<node TEXT="无穷大（默认）" ID="3ce16a0f89e10302e" STYLE="fork">
+		</node>
+		<node TEXT="画板模式" ID="3c316a0f8a02b8059" STYLE="fork">
+		</node>
+		</node>
+		<node TEXT="缩放预览模式" ID="32e16a0f893ee306" STYLE="fork">
+		<node TEXT="矢量模式（默认）" ID="dd16a0f8b8358072" STYLE="fork">
+		</node>
+		<node TEXT="像素模式" ID="4316a0f8bb25e17d" STYLE="fork">
+		</node>
+		</node>
 		</node>
 		<node TEXT="检查器（Inspector）" ID="13916a051f6df2182" STYLE="fork">
 		<node TEXT="对齐选项（Alignment Options）" ID="2be16a0520aafb14f" STYLE="fork">
+		<node TEXT="水平平均分布" ID="6b16a0fa14625113" STYLE="fork">
+		</node>
+		<node TEXT="垂直平均分布" ID="2ae16a0fa3b557177" STYLE="fork">
+		</node>
+		<node TEXT="左对齐" ID="19e16a0fa3ca4d013" STYLE="fork">
+		</node>
+		<node TEXT="水平居中对齐" ID="32d16a0fa3d5d10c7" STYLE="fork">
+		</node>
+		<node TEXT="右对齐" ID="2bb16a0fa3fd5e129" STYLE="fork">
+		</node>
+		<node TEXT="上对齐" ID="19916a0fa417d300a" STYLE="fork">
+		</node>
+		<node TEXT="垂直居中对齐" ID="9e16a0fa42a5f15b" STYLE="fork">
+		</node>
+		<node TEXT="下对齐" ID="1e816a0fa463c416e" STYLE="fork">
+		</node>
 		</node>
 		<node TEXT="图层属性（Layer Properties）" ID="5f16a0521ab030a3" STYLE="fork">
+		<node TEXT="x 坐标" ID="d916a0fb29a67123" STYLE="fork">
+		</node>
+		<node TEXT="y 坐标" ID="18616a0fb2bbf8189" STYLE="fork">
+		</node>
+		<node TEXT="旋转角度（逆时针）" ID="2f616a0fb2c5e6089" STYLE="fork">
+		</node>
+		<node TEXT="宽度" ID="27816a0fb2dac711c" STYLE="fork">
+		</node>
+		<node TEXT="高度" ID="39116a0fb2e801061" STYLE="fork">
+		</node>
+		<node TEXT="水平翻转" ID="2c316a0fb4c79c146" STYLE="fork">
+		</node>
+		<node TEXT="垂直翻转" ID="5716a0fb4d6e509e" STYLE="fork">
+		</node>
+		<node TEXT="圆角半径" ID="d416a0fb2fc220e5" STYLE="fork">
+		</node>
 		</node>
 		<node TEXT="文本字段（Text Fields）" ID="9216a0521e61400a" STYLE="fork">
+		<node TEXT="字体" ID="35316a0fc6f3880fb" STYLE="fork">
 		</node>
-		<node TEXT="尺寸约束（Resizing）" ID="18416a0522f8220ed" STYLE="fork">
+		<node TEXT="字号" ID="1be16a0fc6fccd00d" STYLE="fork">
 		</node>
-		<node TEXT="外观与样式（Appearance and Style）" ID="33916a0523e6b914d" STYLE="fork">
+		<node TEXT="字体风格" ID="17c16a0fc70450058" STYLE="fork">
+		</node>
+		<node TEXT="颜色" ID="16016a1040151d16" STYLE="fork">
+		</node>
+		<node TEXT="字间距（Character）" ID="19616a1040557d04a" STYLE="fork">
+		</node>
+		<node TEXT="行高（Line）" ID="2e916a104299f30a4" STYLE="fork">
+		</node>
+		<node TEXT="段落间距（Paragraph）" ID="27c16a1042b110061" STYLE="fork">
+		</node>
+		<node TEXT="自动文本框尺寸（Auto）" ID="8716a1042d493196" STYLE="fork">
+		</node>
+		<node TEXT="固定文本框尺寸（Fixed）" ID="f216a10434fa00ec" STYLE="fork">
+		</node>
+		</node>
+		<node TEXT="响应尺寸变化（Resizing）" ID="18416a0522f8220ed" STYLE="fork">
+		<node TEXT="停靠位置（Pin to Edge）" ID="1716a105f91e50b7" STYLE="fork">
+		</node>
+		<node TEXT="固定尺寸（Fix Size）" ID="2c16a105ff93802b" STYLE="fork">
+		</node>
+		</node>
+		<node TEXT="外观与样式（Appearance and Style）" ID="4116a1074e3e90f5" STYLE="fork">
+		<node TEXT="叠加效果" ID="10c16a108aa73f09d" STYLE="fork">
+		</node>
+		<node TEXT="透明度" ID="3116a1089207a155" STYLE="fork">
+		</node>
+		<node TEXT="填充" ID="8a16a108a8cbf0c3" STYLE="fork">
+		</node>
+		<node TEXT="边框" ID="2fd16a108b41e4066" STYLE="fork">
+		</node>
+		<node TEXT="阴影" ID="f416a108b7d0c0a9" STYLE="fork">
+		</node>
+		<node TEXT="内阴影" ID="26516a108b9835005" STYLE="fork">
+		</node>
+		<node TEXT="模糊" ID="5e16a108bb44007" STYLE="fork">
+		</node>
 		</node>
 		<node TEXT="导出（Exporting）" ID="3ca16a0524a8cc15" STYLE="fork">
 		</node>
@@ -153,7 +233,7 @@
 		<node TEXT="图层样式（Layer Styles）" ID="2c916a056b396f0c7" STYLE="fork">
 		</node>
 		</node>
-		<node TEXT="符号（Symbols）" ID="416a056b934f0c5" STYLE="bubble" POSITION="left">
+		<node TEXT="符号（Symbols）" ID="416a056b934f0c5" STYLE="bubble" POSITION="right">
 		<node TEXT="创建符号（Creating Symbols）" ID="27916a056bc589163" STYLE="fork">
 		</node>
 		<node TEXT="编辑符号（Editing Symbols）" ID="1d16a056c066701e" STYLE="fork">
@@ -165,7 +245,7 @@
 		<node TEXT="嵌套符号（Nested Symbols）" ID="23416a057008cc0f7" STYLE="fork">
 		</node>
 		</node>
-		<node TEXT="库（Libraries）" ID="37c16a057053a41" STYLE="bubble" POSITION="left">
+		<node TEXT="库（Libraries）" ID="37c16a057053a41" STYLE="bubble" POSITION="right">
 		<node TEXT="添加库（Adding Libraries）" ID="3ac16a0570928703d" STYLE="fork">
 		</node>
 		<node TEXT="库符号（Library Symbols）" ID="1ac16a0570f47109" STYLE="fork">
@@ -177,7 +257,7 @@
 		<node TEXT="分享库（Shared Librares）" ID="2cf16a05772fde026" STYLE="fork">
 		</node>
 		</node>
-		<node TEXT="原型（Prototyping）" ID="3716a0577628901a" STYLE="bubble" POSITION="left">
+		<node TEXT="原型（Prototyping）" ID="3716a0577628901a" STYLE="bubble" POSITION="right">
 		<node TEXT="链接（Links）" ID="37316a0577b01b198" STYLE="fork">
 		</node>
 		<node TEXT="热点（Hotspots）" ID="7f16a0577cd76129" STYLE="fork">
@@ -189,7 +269,7 @@
 		<node TEXT="预览（Previewing）" ID="10216a0578e0650f6" STYLE="fork">
 		</node>
 		</node>
-		<node TEXT="画布（Canvas）" ID="3df16a0579259d0a" STYLE="bubble" POSITION="left">
+		<node TEXT="画布（Canvas）" ID="3df16a0579259d0a" STYLE="bubble" POSITION="right">
 		<node TEXT="像素缩放模式（Pixel Zoom）" ID="21516a057955b10be" STYLE="fork">
 		</node>
 		<node TEXT="标尺、参考线、网格（Rulers、Guides、Grids）" ID="1e416a0579c41705f" STYLE="fork">
@@ -197,7 +277,7 @@
 		<node TEXT="测量（Measuring）" ID="5716a0579f646152" STYLE="fork">
 		</node>
 		</node>
-		<node TEXT="导出（Exporting）" ID="db16a057ab6100ef" STYLE="bubble" POSITION="left">
+		<node TEXT="导出（Exporting）" ID="db16a057ab6100ef" STYLE="bubble" POSITION="right">
 		<node TEXT="配置导出选项（Make Exportable）" ID="b716a057b1687146" STYLE="fork">
 		</node>
 		<node TEXT="切片（Slices）" ID="25416a057e514f11a" STYLE="fork">
@@ -211,7 +291,7 @@
 		<node TEXT="打印（Printing）" ID="35c16a05802938072" STYLE="fork">
 		</node>
 		</node>
-		<node TEXT="首选项（Preferences）" ID="15816a05806a21089" STYLE="bubble" POSITION="left">
+		<node TEXT="首选项（Preferences）" ID="15816a05806a21089" STYLE="bubble" POSITION="right">
 		<node TEXT="常用（General）" ID="1c216a0580d9890e4" STYLE="fork">
 		</node>
 		<node TEXT="画布（Canvas）" ID="28716a05814b020db" STYLE="fork">
@@ -227,7 +307,7 @@
 		<node TEXT="导出预设（Export Presets）" ID="27f16a0581eb1b0cb" STYLE="fork">
 		</node>
 		</node>
-		<node TEXT="插件（Plugins）" ID="21a16a05834c03074" STYLE="bubble" POSITION="left">
+		<node TEXT="插件（Plugins）" ID="21a16a05834c03074" STYLE="bubble" POSITION="right">
 		<node TEXT="安装插件（Installing Plugins）" ID="1aa16a05836ed00c2" STYLE="fork">
 		</node>
 		<node TEXT="关闭插件（Disabling Plugins）" ID="29d16a058394f502d" STYLE="fork">
@@ -235,7 +315,7 @@
 		<node TEXT="创建插件（Creating Plugins）" ID="27116a0583d0d005c" STYLE="fork">
 		</node>
 		</node>
-		<node TEXT="插件开发" ID="8616a0583fc5212b" STYLE="bubble" POSITION="left">
+		<node TEXT="插件开发" ID="8616a0583fc5212b" STYLE="bubble" POSITION="right">
 		<node TEXT="插件基础" ID="ad16a0602e4dc06e" STYLE="fork">
 		<node TEXT="术语" ID="3b916a060a996a03" STYLE="fork">
 		<node TEXT="插件（Plugin）" ID="e916a060c7a1b06d" STYLE="fork">
